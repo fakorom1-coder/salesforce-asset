@@ -29,7 +29,7 @@
   <body>
     <h1>Salesforce Asset</h1>
     <img 
-      src="https://raw.githubusercontent.com/fakorom1-coder/salesforce-asset/refs/heads/main/SRI%20Contact%20alert.png" 
+      src="https://raw.githubusercontent.com/fakorom1-coder/salesforce-asset/main/SRI%20Contact%20alert.png" 
       alt="Salesforce Asset Image"
     />
   </body>
